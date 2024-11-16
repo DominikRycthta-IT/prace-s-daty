@@ -2,5 +2,43 @@ Zpracujte dokumenty ve formátu PDF:
 1. Z obou dokumentù uložte vždy jen druhou a tøetí stranu do samostatných souborù - pvy1.pdf a pvy2.pdf.
 2. Spojte oba novì vytvoøené dokumenty do jednoho - pvy.pdf
 3. S využitím automatického pøekladu nechejte pøeložit do nìmèiny a angliètiny text kapitoly "Data, informace, signál".
+Data are facts obtained from reality, e.g. measured physical quantities
+(temperature, pressure, weight), historical data, photographs, sound or film
+records etc.
+The term information refers to information already evaluated and meaningful
+arranged data into a form that has some meaning. Thanks for the information
+we create knowledge about the surrounding world and based on information
+we can decide on our actions.
+Information has an intangible nature. For its storage, transmission and processing
+a signal is used - a physical carrier of information.
+In its primitive form, the signal can be, for example, a knot on a string, hung up
+flag on the mast, etc. For machine processing of information as signals
+they use different physical quantities that change their state (electrical voltage,
+magnetic polarization, electromagnetic wave, sound wave,
+gas or liquid pressure...).
+The difference between data and information can be explained using the example of identification
+pass. The card contains textual, numerical and graphic data. Isolated data
+they have no meaning in themselves, only their inclusion in the card creates a meaningful one
+information about the person.;
+
+Daten sind aus der Realität gewonnene Fakten, z.B. gemessene physikalische Größen
+(Temperatur, Druck, Gewicht), historische Daten, Fotos, Ton oder Film
+Aufzeichnungen usw.
+Der Begriff Information bezieht sich auf bereits ausgewertete und aussagekräftige Informationen
+Ordnet Daten in einer Form an, die eine gewisse Bedeutung hat. Danke für die Information
+Wir schaffen Wissen über die umgebende Welt und basieren auf Informationen
+Wir können über unser Handeln entscheiden.
+Informationen sind immaterieller Natur. Für deren Speicherung, Übermittlung und Verarbeitung
+Es wird ein Signal verwendet – ein physischer Informationsträger.
+In seiner ursprünglichen Form kann das Signal z.B. Knoten an Schnur, aufgehängt
+Flagge am Mast usw. Zur maschinellen Verarbeitung von Informationen als Signale
+sie nutzen unterschiedliche physikalische Größen, die ihren Zustand ändern (elektrische Spannung,
+magnetische Polarisation, elektromagnetische Welle, Schallwelle,
+Gas- oder Flüssigkeitsdruck...).
+Der Unterschied zwischen Daten und Informationen lässt sich am Beispiel der Identifikation erläutern
+passieren. Die Karte enthält Text-, Zahlen- und Grafikdaten. Isolierte Daten
+Sie haben an sich keine Bedeutung, nur ihre Aufnahme in die Karte schafft eine sinnvolle Bedeutung
+Informationen über die Person.;
+
 3. Uložte do samostatného souboru PNG obrázek obsahující ukázku fiktivní ISIC karty z téže kapitoly.
   
