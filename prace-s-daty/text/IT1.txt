@@ -1,0 +1,13 @@
+ 72: Pierník;Jakub;IT1
+ 74: Poboøil;Sebastian;IT1
+ 78: Reger;Filip;IT1
+ 81: Rychlý;Martin;IT1
+ 82: Rychta;Dominik;IT1
+ 88: Sobek;David;IT1
+ 90: Sochor;Filip;IT1
+ 95: Svìtlík;Metodìj;IT1
+102: Tesaøík;Ondøej;IT1
+107: Valigura;Dominik;IT1
+108: Vanìk;Matìj;IT1
+110: Vavrla;Šimon;IT1
+111: Velecký;Matyáš;IT1
